@@ -1,0 +1,33 @@
+body{
+text-align:center;
+font-family: sans-serif,Verdana;
+color:aqua;
+font-size: 19px;
+font-size-adjust: auto;
+background-image:url(sm.jpg);
+background-size:cover;
+width:70%;
+margin:auto;
+    
+    
+}
+h1 {
+    text-align: center;
+    border-bottom: solid;
+    background-color: beige;
+}
+img {
+    border: dotted 5px;
+    border-radius: 100%;
+    margin: auto
+    width: 75%;
+    display:block;
+  
+  
+    
+}
+#malzemeler. {
+color:red;
+
+
+}
